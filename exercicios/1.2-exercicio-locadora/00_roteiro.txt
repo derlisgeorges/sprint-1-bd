@@ -1,5 +1,7 @@
-Construa o Modelo Entidade Relacionamento considerando o seguinte cenário:
+Uma clínica veterinária deseja cadastrar os pets que são atendidos em seu local.
 
-- uma empresa possui vários veículos
-- um veículo possui marca(gm, ford, fiat), modelo(onix, fiesta, argo) e placa
-- um cliente (cpf, nome) aluga um ou mais veículos
+- a clínica contém um endereço;
+- os pets deverão ter nome, data de nascimento, tipo de pet;
+- os pets deverão ter raça;
+- os pets deverão ter donos;
+- a clínica deseja cadastrar seus veterinários e todo atendimento de pet será feito por um veterinário;
